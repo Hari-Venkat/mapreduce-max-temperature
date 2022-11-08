@@ -1,0 +1,1 @@
+# mapreduce-max-temperature
